@@ -7,7 +7,7 @@
   ],
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": "Bekzod <bekzod@me.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"

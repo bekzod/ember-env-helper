@@ -4,6 +4,8 @@ module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'dummy',
     environment,
+
+    constants: { PI: Math.PI },
     rootURL: '/',
     locationType: 'auto',
     EmberENV: {
