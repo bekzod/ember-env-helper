@@ -1,6 +1,8 @@
 ember-env-helper
 ==============================================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bekzod/ember-env-helper.svg)](https://greenkeeper.io/)
+
 [Short description of the addon.]
 
 
